@@ -2,7 +2,6 @@
 #include "Core.hpp"
 namespace Arcadia {
 
-
 	class ARCADIA_API Application
 	{
 	public:
