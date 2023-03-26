@@ -1,0 +1,3 @@
+[submodule "ArcadiaEngine/vendor/spdlog"]
+	path = ArcadiaEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
